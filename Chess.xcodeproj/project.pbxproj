@@ -219,8 +219,6 @@
 				TargetAttributes = {
 					AB75A10F1E171545008E586C = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = TYU3V8LVE5;
-						ProvisioningStyle = Automatic;
 						ProvisioningStyle = Manual;
 					};
 				};
@@ -402,7 +400,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = TYU3V8LVE5;
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Chess/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -416,7 +413,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = TYU3V8LVE5;
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Chess/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
