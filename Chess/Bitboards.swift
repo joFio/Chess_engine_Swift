@@ -356,7 +356,6 @@ struct Bitboards {
         let col = (position % 8)
         let row = (position / 8)
         var mask = bitboard
-        
         if col < 7 &&  row < 7  {
             mask = mask | (bitboard << (9))
         }

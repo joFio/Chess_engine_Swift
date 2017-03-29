@@ -11,10 +11,13 @@ import Foundation
 struct BitboardSetup {
     static let CastlingBlackMask1:UInt64 = 17870283321406128128
     static let CastlingBlackMask2:UInt64 = 1080863910568919040
+    
     static let CastlingWhiteKing1:UInt64 = 2
     static let CastlingWhiteKing2:UInt64 = 32
+    
     static let CastlingWhiteMask1:UInt64 = 15
     static let CastlingWhiteMask2:UInt64 = 248
+    
     static let CastlingBlackKing1:UInt64 = 2305843009213693952
     static let CastlingBlackKing2:UInt64 = 144115188075855872
     static let PromotionForBlack:UInt64 = 255
